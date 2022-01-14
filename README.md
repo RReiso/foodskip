@@ -1,7 +1,7 @@
 <h1 align="center">
   <br>
-<img src="./public/images/logo-inverted.png" alt="foodskip logo white" width="200">
-<img src="./public/images/logo-icon.svg" alt="foodskip logo black" width="200">
+<img src="./public/images/logo-inverted.png#gh-dark-mode-only" alt="foodskip logo white" width="200">
+<img src="./public/images/logo-icon.svg#gh-light-mode-only" alt="foodskip logo black" width="200">
   <br>
   FOODSKIP
 </h1>
