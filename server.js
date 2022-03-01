@@ -1,5 +1,5 @@
 // load .env data into process.env
-require("dotenv").config();
+require("dotenv").config({ silent: true });
 
 // hello there.
 
