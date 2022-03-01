@@ -1,0 +1,43 @@
+body {
+  position: relative;
+}
+
+h1 {
+  text-align: center;
+  margin-top: 50px;
+  margin-bottom: 30px;
+}
+
+table {
+  text-align: left;
+  border-collapse: collapse;
+  margin: 0 auto;
+}
+table tr {
+  height: 40px;
+  border-bottom: 1px solid;
+}
+table tr:first-child {
+  background: #ffc529;
+  height: 45px;
+  border-bottom: none;
+}
+table td,
+table th {
+  padding: 10px;
+}
+table button {
+  background: #fe724c;
+  border: none;
+  padding: 8px 10px;
+  color: #fff;
+  border-radius: 3px;
+}
+
+#description {
+  width: 300px;
+}
+
+#edit {
+  background: black;
+}
