@@ -35,7 +35,6 @@ User:
 
 Restaurant:
 
-- CRUD for restaurant menu
 - Update order status
 - SMS notifications
 
