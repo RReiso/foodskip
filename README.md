@@ -23,7 +23,7 @@ A food pick-up service ordering app built with Node.js, Express and JQuery, usin
 ## Interact with the App
 
 See the app live [here](https://foodskip.herokuapp.com/).
-In the address bar after `https://foodskip.herokuapp.com/` add `users/3` to simulate login of a user. Play around by adding and removing menu items from the order. Refresh the browser to see that your order has not been lost! This app uses the trial version of Twilio service so you will not be able to receive an sms confirmation for your order.
+In the address bar after `https://foodskip.herokuapp.com/` add `users/6` to simulate login of a user. Play around by adding and removing menu items from the order. Refresh the browser to see that your order has not been lost! This app uses the trial version of Twilio service so you will not be able to receive an sms confirmation for your order.
 
 ## Key Features
 
