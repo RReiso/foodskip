@@ -18,12 +18,13 @@
 
 ## Description
 
-A food pick-up service ordering app built with Node.js, Express and JQuery, using PostgreSQL for development database. The app serves as an intermediary between the restaurant and client and integrates Twilio API for SMS notifications.
+During the pandemic, food ordering has become wildly common as indoor dining had been restricted. This app offers a food-pick up service for it's customers. It serves as an intermediary between the restaurant and the client and integrates Twilio API for SMS notifications.
+We, Ruta, Mohamed and Michael, built this app with Node.js, Express and JQuery, using PostgreSQL for development database.
 
 ## Interact with the App
 
-See the app live [here](https://foodskip.herokuapp.com/).
-When you click `log in` you will be logged in as user 3. Play around by adding and removing menu items from the order. Refresh the browser to see that your order has not been lost! This app uses the trial version of Twilio service so you will not be able to receive an sms confirmation for your order.
+You can [interact with the app](https://foodskip.herokuapp.com/) live.
+When you click on `log in` button, you will be logged in as user 3. Play around by adding and removing menu items from the order. Refresh the browser to see that your order has not been lost! This app uses the trial version of Twilio service (it only sends sms to verified phone numbers) so you will not be able to receive an sms confirmation for your order.
 
 ## Key Features
 
@@ -31,12 +32,12 @@ User:
 
 - Browse menu and orders
 - Order food
-- SMS notifications
+- SMS notifications when order has been placed and when it is ready for pick-up
 
 Restaurant:
 
 - Update order status
-- SMS notifications
+- SMS notifications when a new order has been placed
 
 ## Project Screenshots
 
