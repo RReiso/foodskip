@@ -63,6 +63,7 @@ function flash(message, options = null) {
     .children(":last")
     .hide()
     .fadeIn($options.fadeIn);
+
   //Check if message is clickable to enable message click hide action
   if ($options.clickable) {
     $message.on("click", function () {
