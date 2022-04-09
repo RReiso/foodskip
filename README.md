@@ -18,7 +18,7 @@
 
 ## Description
 
-During the pandemic, food ordering has become wildly common as indoor dining had been restricted. This app offers a food-pick up service for it's customers. It serves as an intermediary between the restaurant and the client and integrates Twilio API for SMS notifications.
+During the pandemic restaurants, cafes and other food service establishments faced many indoor dining restrictions. As a result food ordering has become a wildly common solution for many people who still want to enjoy their favourite foods. This app offers an easy food-pick up service for it's customers. It serves as an intermediary between the restaurant and the client and integrates Twilio API for SMS notifications.
 We, Ruta, Mohamed and Michael, built this app with Node.js, Express and JQuery, using PostgreSQL for development database.
 
 ## Interact with the App
